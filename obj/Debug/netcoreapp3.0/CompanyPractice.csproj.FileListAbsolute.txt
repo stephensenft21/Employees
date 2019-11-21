@@ -1,0 +1,11 @@
+C:\Users\NSS31\workspace\csharp\exercises\classes\CompanyPractice\bin\Debug\netcoreapp3.0\CompanyPractice.exe
+C:\Users\NSS31\workspace\csharp\exercises\classes\CompanyPractice\bin\Debug\netcoreapp3.0\CompanyPractice.deps.json
+C:\Users\NSS31\workspace\csharp\exercises\classes\CompanyPractice\bin\Debug\netcoreapp3.0\CompanyPractice.runtimeconfig.json
+C:\Users\NSS31\workspace\csharp\exercises\classes\CompanyPractice\bin\Debug\netcoreapp3.0\CompanyPractice.runtimeconfig.dev.json
+C:\Users\NSS31\workspace\csharp\exercises\classes\CompanyPractice\bin\Debug\netcoreapp3.0\CompanyPractice.dll
+C:\Users\NSS31\workspace\csharp\exercises\classes\CompanyPractice\bin\Debug\netcoreapp3.0\CompanyPractice.pdb
+C:\Users\NSS31\workspace\csharp\exercises\classes\CompanyPractice\obj\Debug\netcoreapp3.0\CompanyPractice.csprojAssemblyReference.cache
+C:\Users\NSS31\workspace\csharp\exercises\classes\CompanyPractice\obj\Debug\netcoreapp3.0\CompanyPractice.AssemblyInfoInputs.cache
+C:\Users\NSS31\workspace\csharp\exercises\classes\CompanyPractice\obj\Debug\netcoreapp3.0\CompanyPractice.AssemblyInfo.cs
+C:\Users\NSS31\workspace\csharp\exercises\classes\CompanyPractice\obj\Debug\netcoreapp3.0\CompanyPractice.dll
+C:\Users\NSS31\workspace\csharp\exercises\classes\CompanyPractice\obj\Debug\netcoreapp3.0\CompanyPractice.pdb
